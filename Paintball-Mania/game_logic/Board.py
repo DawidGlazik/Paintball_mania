@@ -1,5 +1,5 @@
-from . import Player
-from ..objects import Object
+from game_logic.Player import Player
+from objects.Object import Object
 
 
 class Board:
